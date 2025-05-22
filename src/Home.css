@@ -3,8 +3,11 @@ div {
     flex-wrap: wrap;
     flex-direction: column;
     background-color: antiquewhite;
+    justify-content: space-around;
+    align-items: center;
     width: 300px;
     height: 500px;
+    overflow: auto;
 }
 
 img {
